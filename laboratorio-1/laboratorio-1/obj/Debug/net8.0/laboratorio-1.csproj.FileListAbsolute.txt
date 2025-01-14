@@ -1,0 +1,14 @@
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\obj\Debug\net8.0\laboratorio-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\obj\Debug\net8.0\laboratorio-1.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\obj\Debug\net8.0\laboratorio-1.AssemblyInfo.cs
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\obj\Debug\net8.0\laboratorio-1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\bin\Debug\net8.0\laboratorio-1.exe
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\bin\Debug\net8.0\laboratorio-1.deps.json
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\bin\Debug\net8.0\laboratorio-1.runtimeconfig.json
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\bin\Debug\net8.0\laboratorio-1.dll
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\bin\Debug\net8.0\laboratorio-1.pdb
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\obj\Debug\net8.0\laboratorio-1.dll
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\obj\Debug\net8.0\refint\laboratorio-1.dll
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\obj\Debug\net8.0\laboratorio-1.pdb
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\obj\Debug\net8.0\laboratorio-1.genruntimeconfig.cache
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorio-1\laboratorio-1\obj\Debug\net8.0\ref\laboratorio-1.dll
