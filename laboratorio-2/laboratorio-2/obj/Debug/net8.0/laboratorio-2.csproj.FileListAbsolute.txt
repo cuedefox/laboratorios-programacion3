@@ -1,0 +1,15 @@
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\bin\Debug\net8.0\laboratorio-2.exe
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\bin\Debug\net8.0\laboratorio-2.deps.json
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\bin\Debug\net8.0\laboratorio-2.runtimeconfig.json
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\bin\Debug\net8.0\laboratorio-2.dll
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\bin\Debug\net8.0\laboratorio-2.pdb
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\obj\Debug\net8.0\laboratorio-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\obj\Debug\net8.0\laboratorio-2.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\obj\Debug\net8.0\laboratorio-2.AssemblyInfo.cs
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\obj\Debug\net8.0\laboratorio-2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\obj\Debug\net8.0\laboratorio-2.sourcelink.json
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\obj\Debug\net8.0\laboratorio-2.dll
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\obj\Debug\net8.0\refint\laboratorio-2.dll
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\obj\Debug\net8.0\laboratorio-2.pdb
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\obj\Debug\net8.0\laboratorio-2.genruntimeconfig.cache
+C:\Users\rodri\Documents\Programacion\9.jala\Universidad\programacion-3\laboratorios-programacion3\laboratorio-2\laboratorio-2\obj\Debug\net8.0\ref\laboratorio-2.dll
