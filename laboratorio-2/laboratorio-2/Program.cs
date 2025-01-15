@@ -1,60 +1,77 @@
-﻿using System.Drawing;
+﻿namespace Registro;
 
-namespace pooPilars;
-
-class Esfera
+class Persona
 {
-    private double radio;
+    //campos privados
+    private int id;
+    private string name;
+    private int age;
 
-    public double Radio
+    public string Name //propiedad publica
     {
-        get { return radio; }
-        set { radio = value; }
+        get { return name; }
+        set { name = value; }
     }
 
-    public virtual void Rodar() //Usado para polimorfismo
+    public int Age
     {
-
-    }
-}
-
-//abstraccion al tomar el objeto esfera y pelota y descomponerlos en sus propiedades y metodos
-class Pelota : Esfera //herencia
-{
-    private string color;
-    private int volumen;
-    private int peso;
-    private int dureza;
-
-    public string Color //encapsulamiento estableciendo getters y setters para propiedades privadas
-    {
-        get { return color; }
-        set { color = value; }
-    }
-    public int Volumen
-    {
-        get { return volumen; }
-        set { volumen = value; }
-    }
-    public int Peso
-    {
-        get { return peso; }
-        set { peso = value; }
-    }
-    public int Dureza
-    {
-        get { return dureza; }
-        set { dureza = value; }
+        get { return age; }
+        set
+        {
+            if (value < 0)
+                age = value;
+            else
+                Console.WriteLine("Value is under 0");
+        }
     }
 
-    public override void Rodar() //Polimorfismo
+    public int Id { get { return id; } }
+
+    private int GenerateId()//Metodo privado
     {
-        System.Console.WriteLine($"La pelota color {color} esta rodando");
+        Random random = new Random();
+        return random.Next(1000000, 10000000);
     }
 
-    public void Rebotar()
+    public Persona(string name, int age) //constructor con parametros pasados y default
     {
-        System.Console.WriteLine($"La pelota color {color} esta rebotando");
+        this.id = GenerateId();
+        this.name = name;
+        this.age = age;
+        Console.WriteLine($"The persona {name} was created with {age} years");
+    }
+
+    ~Persona()//destructor
+    {
+        Console.WriteLine($"Se ha destruido a {name} con id {id}");
+    }
+
+    public char[] StringToCharArray(string input)//String a array de caracteres
+    {
+        return input.ToCharArray();
+    }
+
+    public string CharArrayToString(char[] input)//array de caracteres a string
+    {
+        return new string(input);
+    }
+
+    public string GetSubstring(string input, int startIndex, int length)//obtener substrings a partir de un string dado
+    {
+        if (startIndex >= 0 && startIndex + length <= input.Length)
+            return input.Substring(startIndex, length);
+        else
+            return "Index out of range";
+    }
+
+    public bool CompareStrings(string str1, string str2)//comparar strings
+    {
+        return str1.Equals(str2);
+    }
+
+    public int SearchString(string input, string search)//buscar string dentro de otro
+    {
+        return input.IndexOf(search);
     }
 }
 
@@ -62,11 +79,28 @@ class Program
 {
     static void Main(string[] args)
     {
-        Esfera miEsfera = new Esfera { Radio = 5.0 };
-        miEsfera.Rodar();
+        Persona persona1 = new Persona("Rodrigo", 23);
+        Console.WriteLine(persona1.Name + " " + persona1.Age + " " + persona1.Id);
+        //quise llamar al destructor pero investigando encontre de que el garbage collector es el que se encarga de esto en c#
 
-        Pelota miPelota = new Pelota { Color = "rojo", Volumen = 10, Peso = 2, Dureza = 5 };
-        miPelota.Rodar();
-        miPelota.Rebotar();
+        string example = "Hola, mundo!";
+        Console.WriteLine("\n--- Operaciones con cadenas ---");
+
+        char[] charArray = persona1.StringToCharArray(example);
+        Console.WriteLine("Array de caracteres: " + string.Join(", ", charArray));
+
+        string reunitedString = persona1.CharArrayToString(charArray);
+        Console.WriteLine("String reunido: " + reunitedString);
+
+        string substring = persona1.GetSubstring(example, 0, 4);
+        Console.WriteLine("Substring: " + substring);
+
+        bool comparison = persona1.CompareStrings("Hola", "Hola");
+        Console.WriteLine("Comparación de cadenas: " + (comparison ? "Iguales" : "Diferentes"));
+
+        int position = persona1.SearchString(example, "mundo");
+        Console.WriteLine("Posición de 'mundo': " + position);
+
+        Console.WriteLine("Fin del programa.");
     }
 }

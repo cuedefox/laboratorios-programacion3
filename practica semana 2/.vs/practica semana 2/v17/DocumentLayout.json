@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|c:\\users\\rodri\\documents\\programacion\\9.jala\\universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\tirarlacuerda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|solutionrelative:practica semana 2\\tirarlacuerda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|c:\\users\\rodri\\documents\\programacion\\9.jala\\universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\luzrojaluzverde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|solutionrelative:practica semana 2\\luzrojaluzverde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|c:\\users\\rodri\\documents\\programacion\\9.jala\\universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|solutionrelative:practica semana 2\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|c:\\users\\rodri\\documents\\programacion\\9.jala\\universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\guardia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|solutionrelative:practica semana 2\\guardia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|c:\\users\\rodri\\documents\\programacion\\9.jala\\universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|solutionrelative:practica semana 2\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|c:\\users\\rodri\\documents\\programacion\\9.jala\\universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|solutionrelative:practica semana 2\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|c:\\users\\rodri\\documents\\programacion\\9.jala\\universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAF51E9-2514-465E-B9AC-5C837C79D408}|practica semana 2\\practica semana 2.csproj|solutionrelative:practica semana 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TirarLaCuerda.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\TirarLaCuerda.cs",
+              "RelativeDocumentMoniker": "practica semana 2\\TirarLaCuerda.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\TirarLaCuerda.cs",
+              "RelativeToolTip": "practica semana 2\\TirarLaCuerda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:40:44.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LuzRojaLuzVerde.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\LuzRojaLuzVerde.cs",
+              "RelativeDocumentMoniker": "practica semana 2\\LuzRojaLuzVerde.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\LuzRojaLuzVerde.cs",
+              "RelativeToolTip": "practica semana 2\\LuzRojaLuzVerde.cs",
+              "ViewState": "AgIAAAEAAAAAAEB5f04wwBQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:29:33.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\Juego.cs",
+              "RelativeDocumentMoniker": "practica semana 2\\Juego.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\Juego.cs",
+              "RelativeToolTip": "practica semana 2\\Juego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:25:07.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guardia.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\Guardia.cs",
+              "RelativeDocumentMoniker": "practica semana 2\\Guardia.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\Guardia.cs",
+              "RelativeToolTip": "practica semana 2\\Guardia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:14:57.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\Jugador.cs",
+              "RelativeDocumentMoniker": "practica semana 2\\Jugador.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\Jugador.cs",
+              "RelativeToolTip": "practica semana 2\\Jugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:09:35.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\Persona.cs",
+              "RelativeDocumentMoniker": "practica semana 2\\Persona.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\Persona.cs",
+              "RelativeToolTip": "practica semana 2\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:07:36.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\Program.cs",
+              "RelativeDocumentMoniker": "practica semana 2\\Program.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\practica semana 2\\practica semana 2\\Program.cs",
+              "RelativeToolTip": "practica semana 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:59:16.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

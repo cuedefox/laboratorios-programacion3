@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\laboratorio-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41B18C95-DE92-43F7-84B3-7E534AABB13B}|laboratorio-2\\laboratorio-2.csproj|c:\\users\\rodri\\documents\\programacion\\9.jala\\universidad\\programacion-3\\laboratorios-programacion3\\laboratorio-2\\laboratorio-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41B18C95-DE92-43F7-84B3-7E534AABB13B}|laboratorio-2\\laboratorio-2.csproj|solutionrelative:laboratorio-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18902B35-B4E0-4E69-9F71-E7716E9672CE}|laboratorio-2\\laboratorio-2.csproj|c:\\users\\rodri\\documents\\programacion\\9.jala\\universidad\\programacion-3\\laboratorios-programacion3\\laboratorio-2\\laboratorio-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18902B35-B4E0-4E69-9F71-E7716E9672CE}|laboratorio-2\\laboratorio-2.csproj|solutionrelative:laboratorio-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18902B35-B4E0-4E69-9F71-E7716E9672CE}|laboratorio-2\\laboratorio-2.csproj|c:\\users\\rodri\\documents\\programacion\\9.jala\\universidad\\programacion-3\\laboratorios-programacion3\\laboratorio-2\\laboratorio-2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{18902B35-B4E0-4E69-9F71-E7716E9672CE}|laboratorio-2\\laboratorio-2.csproj|solutionrelative:laboratorio-2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadMe.md",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\laboratorio-2\\laboratorio-2\\ReadMe.md",
+              "RelativeDocumentMoniker": "laboratorio-2\\ReadMe.md",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\laboratorio-2\\laboratorio-2\\ReadMe.md",
+              "RelativeToolTip": "laboratorio-2\\ReadMe.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-14T15:32:49.383Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +40,9 @@
               "RelativeDocumentMoniker": "laboratorio-2\\Program.cs",
               "ToolTip": "C:\\Users\\rodri\\Documents\\Programacion\\9.jala\\Universidad\\programacion-3\\laboratorios-programacion3\\laboratorio-2\\laboratorio-2\\Program.cs",
               "RelativeToolTip": "laboratorio-2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwDoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T02:11:54.449Z",
+              "WhenOpened": "2025-01-14T15:31:44.68Z",
               "EditorCaption": ""
             }
           ]
